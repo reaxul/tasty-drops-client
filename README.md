@@ -38,6 +38,23 @@ TastyDrop is a web-based food delivery platform developed using the MERN (MongoD
 - Frontend: Deploy the React app to platforms like Netlify, Vercel, or GitHub Pages.
 - Backend: Deploy the Node.js app to platforms like Heroku.
 
+## Credentials
+
+To explore the project, you can use these credentials:
+
+- **Admin Credentials:**
+  - Username: tasty@gmail.com
+  - Password: Tasty12!
+
+- **Rider Credentials:**
+  - Username: rider@gmail.com
+  - Password: Rider@1
+
+- **Partner Credentials:**
+  - Username: partners@gmail.com
+  - Password: Partner@1
+
+
 ## Contributing
 
 We welcome contributions from the community. To contribute, please follow these steps:
